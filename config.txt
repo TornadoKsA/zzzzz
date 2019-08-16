@@ -1,4 +1,4 @@
-token=NjExOTA1NzcyODU0NzA2MTg5.XVantw.63dYTIpXDbDhQrVE8DmqXENLOPc
+token= NjExOTA1NzcyODU0NzA2MTg5.XVantw.63dYTIpXDbDhQrVE8DmqXENLOPc
 owner=358966532308729863 
 prefix=!
 game= Dragon
